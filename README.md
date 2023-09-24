@@ -20,7 +20,7 @@ My codebase for Moringa weekly codechallenge for phase 4 week1.
  3.Run the flask API inside the app directory:
  ```sh
  cd app
- flask run
+ python app.py
  ```
  4.On another terminal, inside the code_challenge directory, start the React app:
  ```sh
